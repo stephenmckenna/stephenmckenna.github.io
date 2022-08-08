@@ -1,0 +1,22 @@
+// app global css in SCSS form
+
+body {
+    background-color: $primary;
+    overflow-y: auto;
+}
+
+.contactLinks {
+    color: white;
+}
+
+.contactLinks:visited {
+    color: white;
+}
+
+.bodyLinks {
+    color: $accent;
+}
+
+.bodyLinks:visited {
+    color: $accent;
+}
